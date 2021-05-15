@@ -21,7 +21,7 @@ From the survey, developers who completed at least the equivalent of a bachelorâ
 <br>
 <br>
 
-<img src="demographic_trend_3.png">
+<img src="demographic_trend_2.png">
 
 <h2> Programming Trend </h2>
 
