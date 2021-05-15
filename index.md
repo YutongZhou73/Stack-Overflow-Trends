@@ -1,5 +1,5 @@
 <html>
-<h1> Trends Discovered From Stack Overflow </h1>
+<img src="Banner.png">
 
 <h2> Introduction </h2>
 
@@ -21,7 +21,7 @@ From the survey, developers who completed at least the equivalent of a bachelorâ
 <br>
 <br>
 
-<img src="demographic_trend_2.png">
+<img src="Education.png">
 
 <h2> Programming Trend </h2>
 
